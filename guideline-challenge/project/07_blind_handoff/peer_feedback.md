@@ -2,8 +2,8 @@
 
 Phần 1 do **nhóm peer** trả lời (gửi kèm file export). Phần 2 do **nhóm owner** điền. Thay mọi placeholder mới là xong (gate G5).
 
-- **Nhóm peer:** Hoa Thanh Que
-- **Người label blind:** Phan Tấn Đạt
+- **Nhóm peer:** nhom
+- **Người label blind:** Đặng Trường Huy
 
 ## 1. Peer trả lời
 
