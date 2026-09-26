@@ -1,6 +1,6 @@
 # Annotation guideline — Functional Drivable Area for Ego Vehicle
 
-**Version:** v2
+**Version:** v3
 
 Guideline này áp dụng cho ảnh tĩnh BDD100K trong bài Day 9. Mục tiêu là để một annotator mới tạo được cùng kiểu annotation mà không cần tác giả đứng cạnh giải thích.
 

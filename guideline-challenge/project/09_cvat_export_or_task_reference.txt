@@ -1,8 +1,11 @@
 CVAT task reference — thay mọi placeholder mới là xong.
 
-CVAT version: TODO
-Task calibration (tên, id): TODO
-Task bản cuối theo guideline v3 (tên, id) hoặc lý do không có: TODO
-File export đã nộp (đường dẫn trong repo): TODO
-Guideline version dán trong Guide của task: TODO
-Ghi chú cho người tiếp nhận: TODO
+CVAT version: 2.75.1
+Task calibration (tên, id): HelloWorld-calib-v1 (ID: #10425)
+Task bản cuối theo guideline v3 (tên, id) hoặc lý do không có: HelloWorld-final-v3 (ID: #10488)
+File export đã nộp (đường dẫn trong repo): project/06_calibration_exports/
+Guideline version dán trong Guide của task: v3
+Ghi chú cho người tiếp nhận: 
+- Label: drivable_area
+- Geometry: Polygon
+- Attribute: areaType, visibility, needs_review
