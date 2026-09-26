@@ -11,7 +11,7 @@
 
 | Thành viên | GitHub | Vai trò chính | File phụ trách |
 |---|---|---|---|
-| Lê Đức Tú | @leductu204 | spec owner | 06_calibration_report,  |
+| Lê Đức Tú | @leductu204 | spec owner | 06_calibration_report,  04_edge_cases |
 | Phạm Anh Huy | @PhAnhHuy | CVAT owner | 03_cvat_labels, 03_ontology_and_cvat_setup |
 | Nguyễn Hoàng Tùng | @HT03-a1 | gold owner | 09_cvat_export_or_task_reference |
 | Vũ Trung Định | @vutrungdinh0103-sketch | QA owner | 05_qa_plan |
