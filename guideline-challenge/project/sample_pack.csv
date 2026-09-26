@@ -1,1 +1,15 @@
 sample_id,split,tags,reason
+BDD01,example,edge;conflict,Gore và vùng kẻ chéo phân nhánh cao tốc
+BDD03,example,normal,Cao tốc ban ngày rõ ràng làm chuẩn ranh giới
+BDD12,example,normal,Đô thị có vạch qua đường nằm trong hành lang xe chạy
+BDD05,calibration,normal;occlusion,Cao tốc có xe phía trước che một phần mặt đường
+BDD11,calibration,edge;conflict,Đô thị có nhánh rẽ và nhiều hướng di chuyển
+BDD17,calibration,edge;low_visibility,Đô thị trời mưa và mặt đường ướt phản chiếu
+BDD20,calibration,edge;ambiguity,Khu dân cư có xe đỗ sát lề đường
+BDD22,calibration,normal;occlusion,Cao tốc chạng vạng có làn chuyển hợp lệ
+BDD26,calibration,edge;low_visibility;ambiguity,Đô thị ban đêm thiếu sáng và ranh giới tối
+BDD08,blind,normal,Cao tốc ban ngày nhiều làn cùng chiều
+BDD16,blind,critical;edge;conflict,Cầu cạn có vùng kẻ chéo và barrier sát mép đường
+BDD23,blind,critical;edge;ambiguity,Khu dân cư có tuyết phủ và hai hàng xe đỗ sát lề
+BDD24,blind,critical;edge;low_visibility,Đô thị có tuyết rơi làm hẹp đường và che ranh giới
+BDD25,blind,normal;low_visibility,Đô thị chạng vạng mặt đường ướt phản chiếu

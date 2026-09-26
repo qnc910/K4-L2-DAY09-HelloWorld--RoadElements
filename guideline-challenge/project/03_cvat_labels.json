@@ -1,1 +1,39 @@
-[]
+[
+    {
+        "name": "drivable_area",
+        "color": "#1E88E5",
+        "type": "polygon",
+        "attributes": [
+            {
+                "name": "areaType",
+                "mutable": false,
+                "input_type": "select",
+                "default_value": "direct",
+                "values": [
+                    "direct",
+                    "alternative"
+                ]
+            },
+            {
+                "name": "visibility",
+                "mutable": false,
+                "input_type": "select",
+                "default_value": "visible",
+                "values": [
+                    "visible",
+                    "partially_occluded",
+                    "unknown"
+                ]
+            },
+            {
+                "name": "needs_review",
+                "mutable": false,
+                "input_type": "checkbox",
+                "default_value": "false",
+                "values": [
+                    "false"
+                ]
+            }
+        ]
+    }
+]
