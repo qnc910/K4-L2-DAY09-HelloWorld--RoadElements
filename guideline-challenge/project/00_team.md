@@ -11,10 +11,10 @@
 
 | Thành viên | GitHub | Vai trò chính | File phụ trách |
 |---|---|---|---|
-| Lê Đức Tú | @leductu204 | spec owner | |
-| Phạm Anh Huy | @PhAnhHuy | CVAT owner | |
-| Nguyễn Hoàng Tùng | @HT03-a1 | gold owner | |
-| Vũ Trung Định | @vutrungdinh0103-sketch | QA owner | |
-| Tạ Văn Mạnh Đức | @qnc910 | gold owner | |
+| Lê Đức Tú | @leductu204 | spec owner | 06_calibration_report,  |
+| Phạm Anh Huy | @PhAnhHuy | CVAT owner | 03_cvat_labels, 03_ontology_and_cvat_setup |
+| Nguyễn Hoàng Tùng | @HT03-a1 | gold owner | 09_cvat_export_or_task_reference |
+| Vũ Trung Định | @vutrungdinh0103-sketch | QA owner | 05_qa_plan |
+| Tạ Văn Mạnh Đức | @qnc910 | gold owner | 01_problem_statement, 02_guideline, 08_revision_log |
 
 Gợi ý chia vai (nhóm 2–3 người thì gộp): **spec owner** (`01`, `02`), **CVAT owner** (`03_*`, `sample_pack.csv`,`09`), **gold owner** (`04_edge_cases/`), **QA owner** (`05`, `06`, 07_blind_handoff/`). Mỗi file một người sửa chính để tránh xung đột git. Calibration thì mọi người cùng label.
